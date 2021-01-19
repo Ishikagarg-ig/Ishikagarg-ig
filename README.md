@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Dequani](https://dequani.com/)
 
-- 🌱 I’m currently learning **Algorihtms**
+- 🌱 I’m currently learning **Algorithms**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
