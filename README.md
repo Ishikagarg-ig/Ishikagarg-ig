@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ishika</h1>
+<h1 align="center">Hey, I'm Ishika👨‍💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagarg-ig&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
