@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagarg-ig&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikagarg-ig" alt="ishikagarg-ig" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikagarg-ig&theme=nord" alt="ishikagarg-ig" /></a> </p>
 
 - 🔭 I’m currently working on [Dequani](https://dequani.com/)
 
