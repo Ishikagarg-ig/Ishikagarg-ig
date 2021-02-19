@@ -19,7 +19,7 @@
 <a href="https://twitter.com/@ ishikag_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ ishikag_123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishika-garg-6893b7176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishika-garg-6893b7176" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ishika_garg_60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishika_garg_60" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ishikagarg137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@ishikagarg137" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ishikagarg137?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@ishikagarg137" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ishika_garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ishika_garg" height="30" width="40" /></a>
 </p>
 
