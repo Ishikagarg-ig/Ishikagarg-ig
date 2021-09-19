@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikagarg-ig&no-frame=true&row=1&column=7" alt="ishikagarg-ig" /></a> </p>
 
-- 🔭 I’m currently working on [Dequani](https://dequani.com/)
+- 🔭 Worked on [Dequani](https://dequani.com/)
 
 - 🌱 I’m currently learning **Algorithms**
 
